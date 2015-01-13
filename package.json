@@ -1,0 +1,25 @@
+{
+  "name": "tableme",
+  "version": "0.1.0",
+  "description": "Google SpreadSheets reader for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nescalante/tableme.git"
+  },
+  "keywords": [
+    "google",
+    "spreadsheets",
+    "sheets",
+    "reader"
+  ],
+  "author": "Nicolas Escalante <nlante@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nescalante/tableme/issues"
+  },
+  "homepage": "https://github.com/nescalante/tableme"
+}
