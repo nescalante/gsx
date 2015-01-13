@@ -1,6 +1,6 @@
 {
   "name": "tableme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Google SpreadSheets reader for the browser",
   "main": "index.js",
   "scripts": {

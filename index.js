@@ -541,7 +541,7 @@
     }
   };
 
-  if (typeof module !== 'undefined' and module.exports) {
+  if (typeof module !== 'undefined' && module.exports) {
     module.exports = Tabletop;
   } else {
     global.Tabletop = Tabletop;
