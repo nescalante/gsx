@@ -14,7 +14,8 @@ function Sheet(source, key) {
   this.id = source.link[source.link.length - 1].href.split('/').pop();
   this.fetch = function (cb) {
     if (content) {
-      return cb(null, content);
+      cb(null, content);
+      return;
     }
 
     fetch(endpoint + '/feeds/list/' + key + '/' + $this.id + '/public/values?alt=json', function (err, data) {
