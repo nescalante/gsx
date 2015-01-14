@@ -1,11 +1,10 @@
 {
   "name": "gsx",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Google SpreadSheets reader for the browser",
   "main": "index.js",
   "scripts": {
-    "test": "jshint . --reporter node_modules/jshint-stylish/stylish.js",
-    "debug": "browserify index.js -d -o dist/bundle.js"
+    "test": "jshint . --reporter node_modules/jshint-stylish/stylish.js"
   },
   "repository": {
     "type": "git",
@@ -24,7 +23,6 @@
   },
   "homepage": "https://github.com/nescalante/gsx",
   "devDependencies": {
-    "browserify": "^8.1.0",
     "jshint": "^2.5.11",
     "jshint-stylish": "^1.0.0"
   }
