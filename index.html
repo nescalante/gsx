@@ -1,0 +1,10 @@
+<script src="dist/bundle.js"></script>
+<script>
+gsx('https://docs.google.com/spreadsheets/d/1LkVkb3VFjxBf6JpvTOgklzcwr9OgU_8n8fBpyqhVS4U/pubhtml', function (err, data) {
+  console.log(data);
+
+  data.sheets[0].fetch(function (err, data) {
+    console.log(data);
+  });
+})
+</script>
