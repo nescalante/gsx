@@ -1,7 +1,1 @@
-var main = require('./src/main.js');
-
-if (typeof window !== 'undefined') {
-  window.gsx = main;
-}
-
-module.exports = main;
+module.exports = require('./src/main.js');
