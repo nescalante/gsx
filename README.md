@@ -22,4 +22,6 @@ gsx('someKey', function (err, data) {
 })
 ```
 
-## License MIT
+## License
+
+MIT
