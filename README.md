@@ -2,13 +2,13 @@
 
 > Google SpreadSheets Reader
 
-# Install
+## Install
 
 ```shell
 npm install gsx
 ```
 
-# Usage
+## Usage
 
 ```
 var gsx = require('gsx');
