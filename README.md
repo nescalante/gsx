@@ -1,5 +1,7 @@
 # GSX
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/gsx.svg)](https://greenkeeper.io/)
+
 > Google SpreadSheets Reader
 
 ## Install
