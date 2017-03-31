@@ -24,6 +24,6 @@
   "homepage": "https://github.com/nescalante/gsx",
   "devDependencies": {
     "jshint": "^2.5.11",
-    "jshint-stylish": "^1.0.0"
+    "jshint-stylish": "^2.2.1"
   }
 }
